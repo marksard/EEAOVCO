@@ -25,18 +25,18 @@ Eurorack 8HP Single VCO using 3340 IC.
 
 |Name|Description|
 |:--|:--|
-|PULSE|Bipoler8Vpp|
-|RAMP|Bipoler8Vpp|
-|TRIANGLE|Bipoler8Vpp|
-|SINE|Bipoler8Vpp|
-|RAMPH|Bipoler8Vpp, Morphing between from RAMP+SINE to RAMP+PULSE|
+|PULSE|Bipoler 8Vpp|
+|RAMP|Bipoler 8Vpp|
+|TRIANGLE|Bipoler 8Vpp|
+|SINE|Bipoler 8Vpp|
+|RAMPH|Bipoler 8Vpp, Morphing between from RAMP+SINE to RAMP+PULSE|
 
 
 ### Controller
 
 |Name|Description|
 |:--|:--|
-|COARSE|About 0.6Hz～2.8khz|
+|COARSE|About 0.6Hz～2.8khz (1nF)</br>About 0.06Hz(16sec)～330Hz(11nF)|
 |FINE|About ~8 semitone|
 |PW|Pulse Width|
 |PWM|PWM Depth|
