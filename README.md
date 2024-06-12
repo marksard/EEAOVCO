@@ -29,7 +29,7 @@ Eurorack 8HP Single VCO using 3340 IC.
 |RAMP|Bipoler 8Vpp|
 |TRIANGLE|Bipoler 8Vpp|
 |SINE|Bipoler 8Vpp|
-|RAMPH|Bipoler 8Vpp, Morphing between from RAMP+SINE to RAMP+PULSE|
+|RAMPH|Bipoler 8~11Vpp, Morphing between from RAMP+SINE to RAMP+PULSE|
 
 
 ### Controller
