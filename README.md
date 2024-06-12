@@ -44,7 +44,7 @@ Eurorack 8HP Single VCO using 3340 IC.
 |RAMPH|Morphing between from RAMP+SINE to RAMP+PULSE|
 
 ## Image
-![img]()
+![img](https://marksard.github.io/assets/photos/20240414_IMGP8686.jpg)
 
 ## Schematic
 
